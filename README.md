@@ -3,7 +3,7 @@
 Alpha release, functionality not guaranteed.
 Windows support only (TBD)
 
-Current functionality is for a specific (popular) database, code alteration is required for usage with other databases.
+Current functionality is for a specific (popular) database, code alteration is required for usage with other databases. (TBD)
 -----
 # How to use?
 1. Add the ```.py``` and ```.ico``` files to  Windows: ```%localappdata%\qBittorrent\nova3\engines\```
